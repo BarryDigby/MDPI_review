@@ -345,6 +345,12 @@ Salzman, J.
 \newblock {RNA Isoform Discovery Through Goodness of Fit Diagnostics}. In {\em {Statistical Analysis of Next Generation Sequencing Data}}; Springer: Cham, Switzerland,  2014; pp. 261--276.
 \newblock {\url{https://doi.org/10.1007/978-3-319-07212-8_13}}.
 
+\bibitem[Langmead \em{et~al.}(2009)Langmead, Trapnell, Pop, and Salzberg]{Bowtie}
+Langmead, B.; Trapnell, C.; Pop, M.; Salzberg, S.L.
+\newblock {Ultrafast and memory-efficient alignment of short DNA sequences to the human genome}.
+\newblock {\em Genome Biol.} {\bf 2009}, {\em 10},~1--10.
+\newblock {\url{https://doi.org/10.1186/gb-2009-10-3-r25}}.
+
 \bibitem[Song \em{et~al.}(2016)Song, Zhang, Han, Moon, Lai, Wang, and Lu]{UROBORUS}
 Song, X.; Zhang, N.; Han, P.; Moon, B.S.; Lai, R.K.; Wang, K.; Lu, W.
 \newblock {Circular RNA profile in gliomas revealed by identification tool UROBORUS}.
@@ -871,6 +877,11 @@ Dudekula, D.B.; Panda, A.C.; Grammatikakis, I.; De, S.; Abdelmohsen, K.; Gorospe
 \newblock {\em RNA Biol.} {\bf 2016}, {\em 13},~34--42,  \href{http://xxx.lanl.gov/abs/26669964}{{\normalfont [26669964]}}.
 \newblock {\url{https://doi.org/10.1080/15476286.2015.1128065}}.
 
+\bibitem[cir()]{cirRBP-website}
+{CircRNA-Binding Proteins Site Prediction}.
+\newblock \url{http://www.bioinformatics.team/}.
+\newblock Accessed: 2023-09-01.
+
 \bibitem[Maass \em{et~al.}(2017)Maass, Gla{\ifmmode\check{z}\else\v{z}\fi}ar, Memczak, Dittmar, Hollfinger, Schreyer, Sauer, Toka, Aiuti, Luft, and Rajewsky]{Maass2017Nov}
 Maass, P.G.; Gla{\ifmmode\check{z}\else\v{z}\fi}ar, P.; Memczak, S.; Dittmar, G.; Hollfinger, I.; Schreyer, L.; Sauer, A.V.; Toka, O.; Aiuti, A.; Luft, F.C.;  et~al.
 \newblock {A map of human circular RNAs in clinically relevant tissues}.
@@ -912,6 +923,12 @@ Chen, L.L.; Bindereif, A.; Bozzoni, I.; Chang, H.Y.; Matera, A.G.; Gorospe, M.; 
 \newblock {A guide to naming eukaryotic circular RNAs}.
 \newblock {\em Nat. Cell Biol.} {\bf 2023}, {\em 25},~1--5.
 \newblock {\url{https://doi.org/10.1038/s41556-022-01066-9}}.
+
+\bibitem[Wu \em{et~al.}(2024)Wu, Zhao, and Zhang]{circatlas3}
+Wu, W.; Zhao, F.; Zhang, J.
+\newblock {circAtlas 3.0: a gateway to 3 million curated vertebrate circular RNAs based on a standardized nomenclature scheme}.
+\newblock {\em Nucleic Acids Res.} {\bf 2024}, {\em 52},~D52--D60.
+\newblock {\url{https://doi.org/10.1093/nar/gkad770}}.
 
 \bibitem[Martin \em{et~al.}(2023)Martin, Amode, Aneja, Austine-Orimoloye, Azov, Barnes, Becker, Bennett, Berry, Bhai, Bhurji, Bignell, Boddu, Branco~Lins, Brooks, Ramaraju, Charkhchi, Cockburn, Da~Rin~Fiorretto, Davidson, Dodiya, Donaldson, El~Houdaigui, El~Naboulsi, Fatima, Giron, Genez, Ghattaoraya, Martinez, Guijarro, Hardy, Hollis, Hourlier, Hunt, Kay, Kaykala, Le, Lemos, Marques-Coelho, Marug{\ifmmode\acute{a}\else\'{a}\fi}n, Merino, Mirabueno, Mushtaq, Hossain, Ogeh, Sakthivel, Parker, Perry, Pili{\ifmmode\check{z}\else\v{z}\fi}ota, Prosovetskaia, P{\ifmmode\acute{e}\else\'{e}\fi}rez-Silva, Salam, Saraiva-Agostinho, Schuilenburg, Sheppard, Sinha, Sipos, Stark, Steed, Sukumaran, Sumathipala, Suner, Surapaneni, Sutinen, Szpak, Tricomi, Urbina-G{\ifmmode\acute{o}\else\'{o}\fi}mez, Veidenberg, Walsh, Walts, Wass, Willhoft, Allen, Alvarez-Jarreta, Chakiachvili, Flint, Giorgetti, Haggerty, Ilsley, Loveland, Moore, Mudge, Tate, Thybert, Trevanion, Winterbottom, Frankish, Hunt, Ruffier, Cunningham, Dyer, Finn, Howe, Harrison, Yates, and Flicek]{ENSEMBL2023}
 Martin, F.J.; Amode, M.R.; Aneja, A.; Austine-Orimoloye, O.; Azov, A.G.; Barnes, I.; Becker, A.; Bennett, R.; Berry, A.; Bhai, J.;  et~al.

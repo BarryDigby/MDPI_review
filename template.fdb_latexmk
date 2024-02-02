@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex template"] 1700152851 "template.aux" "template.bbl" "template" 1700152892 0
+["bibtex template"] 1706882561 "template.aux" "template.bbl" "template" 1706882955 0
   "./Definitions/mdpi.bst" 1699372594 23669 4df3338ca9d7b1eb23a83103e0cc349a ""
-  "./biblio.bib" 1700148964 96671 d906a851cca082d01eb900c23921f17e ""
-  "template.aux" 1700152891 40854 6a528046f3f7fcf7042c9e646a5f5487 "pdflatex"
+  "./biblio.bib" 1706879888 97256 d7f8128e633a242154b218dc3bd77d2e ""
+  "template.aux" 1706882955 42188 609b231b96e33bfd480368d977395900 "pdflatex"
   (generated)
   "template.bbl"
   "template.blg"
   (rewritten before read)
-["pdflatex"] 1700152876 "/home/barry/Desktop/MDPI/template.tex" "template.pdf" "template" 1700152892 0
-  "/home/barry/Desktop/MDPI/template.tex" 1700152876 91825 8c8c58b2c22f19e5328545bd61c6da89 ""
+["pdflatex"] 1706882939 "/home/barry/Desktop/MDPI/template.tex" "template.pdf" "template" 1706882955 0
+  "/home/barry/Desktop/MDPI/template.tex" 1706882716 92341 e73fe8aecec39b680f8ea60b67bad638 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -44,6 +44,7 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm" 1136768653 1012 955c4ca523d7827d33db91a33412b048 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm" 1136768653 1316 b4037e9c09961a72f8476628774e1ec1 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb" 1215737283 95441 e322369dec2b43bb317c506a4a44deaa ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb" 1136849748 15213 d999bbe8bd9c8f231f3f66a737c76478 ""
@@ -57,6 +58,7 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/palatino/pplr8t.vf" 1136768653 2324 a163806de13ddf37313d2ee968aa0a98 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/palatino/pplri8t.vf" 1136768653 2308 5bc0a90b83a3fd7d37d34ef3b64d7e8a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/vf/public/mathpazo/zplmr7m.vf" 1136768653 1812 de7624743c8bafe2ce204bec2f72ce7e ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/vf/public/mathpazo/zplmr7t.vf" 1136768653 1532 73e2c76c81e4f977ab65540630baf4f0 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/vf/public/mathpazo/zplmr7y.vf" 1136768653 1372 31129ac1f6b6f62aaec24c8fed41b02b ""
   "/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -259,10 +261,11 @@
   "Definitions/mdpi.cls" 1699372594 51548 6cd035ca7a21f433889ad8eb6dd21736 ""
   "artefacts.png" 1700073482 303426 84df00fb8951ddcc3198ca34e8e55dd3 ""
   "biogenesis.png" 1700067830 533905 5a02513cd86fd3661824fb4d8a04968e ""
-  "template.aux" 1700152891 40854 6a528046f3f7fcf7042c9e646a5f5487 "pdflatex"
-  "template.bbl" 1700152851 72824 79306fdedeee94e99d91b5cbfda65498 "bibtex template"
-  "template.out" 1700152891 2333 730702bbcdd4650aeaec592b5ea61ccd "pdflatex"
-  "template.tex" 1700152876 91825 8c8c58b2c22f19e5328545bd61c6da89 ""
+  "network.png" 1706875287 618201 56fc362dbf4819dd0e34a5286c6e9fd1 ""
+  "template.aux" 1706882955 42188 609b231b96e33bfd480368d977395900 "pdflatex"
+  "template.bbl" 1706882561 73673 233a91b65d14b175b3430fb27eafc46a "bibtex template"
+  "template.out" 1706882955 2333 730702bbcdd4650aeaec592b5ea61ccd "pdflatex"
+  "template.tex" 1706882716 92341 e73fe8aecec39b680f8ea60b67bad638 ""
   (generated)
   "template.aux"
   "template.log"
